@@ -1,3 +1,20 @@
 {
-  "license": "MIT"
+  "license": "MIT",
+  "name": "mounted-to-dom",
+  "description": "promise that returns once an element is on the dom",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeff-hykin/mounted-to-dom.git"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/jeff-hykin/mounted-to-dom/issues"
+  },
+  "homepage": "https://github.com/jeff-hykin/mounted-to-dom#readme"
 }
